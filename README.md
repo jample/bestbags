@@ -18,6 +18,7 @@
   - [Colors](#colors)
   - [License](#license)
 - [add a new contents](#add-a-new-contents)
+- [another test for this demo](#another-test-for-this-demo)
 
 ## Introduction
 
@@ -167,3 +168,4 @@ Below is the color palette used in this application:
 
 #this is test 这里是进行中文的pr测试
 # add a new contents
+# another test for this demo
